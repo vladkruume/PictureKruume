@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\bin\Debug\PictureKruume.exe.config
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\bin\Debug\PictureKruume.exe
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\bin\Debug\PictureKruume.pdb
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.Form1.resources
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.Properties.Resources.resources
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.exe
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.pdb
+C:\Users\opilane\source\repos\PictureKruume\PictureKruume\obj\Debug\PictureKruume.Form2.resources
